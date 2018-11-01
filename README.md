@@ -1,2 +1,2 @@
-# MCT
+# PowerShell
 Hi This Qamar
